@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Poi-Poi-Hishab/static/css/main.a617e044.chunk.css",
+    "main.js": "/Poi-Poi-Hishab/static/js/main.6289e6c0.chunk.js",
+    "main.js.map": "/Poi-Poi-Hishab/static/js/main.6289e6c0.chunk.js.map",
+    "runtime-main.js": "/Poi-Poi-Hishab/static/js/runtime-main.d7f5bd16.js",
+    "runtime-main.js.map": "/Poi-Poi-Hishab/static/js/runtime-main.d7f5bd16.js.map",
+    "static/js/2.5b619582.chunk.js": "/Poi-Poi-Hishab/static/js/2.5b619582.chunk.js",
+    "static/js/2.5b619582.chunk.js.map": "/Poi-Poi-Hishab/static/js/2.5b619582.chunk.js.map",
+    "static/js/3.1e87b67e.chunk.js": "/Poi-Poi-Hishab/static/js/3.1e87b67e.chunk.js",
+    "static/js/3.1e87b67e.chunk.js.map": "/Poi-Poi-Hishab/static/js/3.1e87b67e.chunk.js.map",
+    "index.html": "/Poi-Poi-Hishab/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Poi-Poi-Hishab/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5b619582.chunk.js.LICENSE.txt": "/Poi-Poi-Hishab/static/js/2.5b619582.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Poi-Poi-Hishab/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7f5bd16.js",
+    "static/js/2.5b619582.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6289e6c0.chunk.js"
+  ]
+}
