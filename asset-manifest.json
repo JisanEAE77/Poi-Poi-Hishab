@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Poi-Poi-Hishab/static/css/main.a617e044.chunk.css",
-    "main.js": "/Poi-Poi-Hishab/static/js/main.6289e6c0.chunk.js",
-    "main.js.map": "/Poi-Poi-Hishab/static/js/main.6289e6c0.chunk.js.map",
+    "main.js": "/Poi-Poi-Hishab/static/js/main.bd1a6e0c.chunk.js",
+    "main.js.map": "/Poi-Poi-Hishab/static/js/main.bd1a6e0c.chunk.js.map",
     "runtime-main.js": "/Poi-Poi-Hishab/static/js/runtime-main.d7f5bd16.js",
     "runtime-main.js.map": "/Poi-Poi-Hishab/static/js/runtime-main.d7f5bd16.js.map",
     "static/js/2.5b619582.chunk.js": "/Poi-Poi-Hishab/static/js/2.5b619582.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d7f5bd16.js",
     "static/js/2.5b619582.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.6289e6c0.chunk.js"
+    "static/js/main.bd1a6e0c.chunk.js"
   ]
 }
